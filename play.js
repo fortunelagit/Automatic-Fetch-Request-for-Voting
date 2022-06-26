@@ -1,5 +1,4 @@
 const fetch = require('node-fetch');
-
 fetch("https://www.kpopmap.com/wp-admin/admin-ajax.php", {
   "headers": {
 	"accept": "*/*",
