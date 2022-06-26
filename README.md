@@ -1,3 +1,3 @@
 # Automatic-Fetch-Request-for-Voting
 
-Dependency: npm, nodejs, node-fetch
+Need to install: npm, nodejs, node-fetch
